@@ -1,5 +1,6 @@
 extends CharacterBody2D
 
+@export var deceleration = 200.0
 @export var speed = 250.0
 @export var jumpForce = -400.0
 @export var gravity = 600
